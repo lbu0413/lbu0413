@@ -1,7 +1,8 @@
 ### Hello! My name is Paul 😁 
 #### I am a developer who never stops learning new things!
-#### Click [here](https://cranky-varahamihira-813bb7.netlify.app/) to learn more about me (still building!) 
-#### Currently working on ***Human Rights First*** project. [link](https://a.humanrightsfirst.dev/)
+> Click [here](https://cranky-varahamihira-813bb7.netlify.app/) to learn more about me (still building!) 
+> 
+> Currently working on ***Human Rights First*** project. [link](https://a.humanrightsfirst.dev/)
 
 
 |👨🏻‍💻|🧠|
