@@ -1,6 +1,6 @@
 ### Hello, my name is Paul.
 I'm a frontend developer with a background in music production.\
-Developers and Music producers have similarities:\
+Developers and music producers have similarities:\
 they create something from nothing and both have responsibilities to give users or listeners amazing experiences.\
 Click [here](https://cranky-varahamihira-813bb7.netlify.app/) to learn more about me (still building!)        
 Currently working on ***Human Rights First*** project. [link](https://a.humanrightsfirst.dev/)
